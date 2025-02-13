@@ -68,7 +68,6 @@ Follow these steps to install dependencies, train the model, and run the gesture
 ### 🔹 Check if Python is Installed:
 Open **Command Prompt (cmd)** and run:
 
-```sh
 python --version
 
 if Python 3.10 is not installed, download it from the official website:
